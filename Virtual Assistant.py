@@ -12,7 +12,7 @@ text = "My name is Ether"
 
 print_and_speak(text)
 
-text = "I am your Virtual Assistent"
+text = "I am your Virtual Assistant"
 
 print_and_speak(text)
 
@@ -48,4 +48,5 @@ else:
 
 print_and_speak(text)
     
+
 
